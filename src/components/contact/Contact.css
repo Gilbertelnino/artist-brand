@@ -1,0 +1,14 @@
+.contact {
+  margin-top: 20px;
+  margin-left: 20px;
+  min-height: 500px;
+}
+h4 {
+  color: #000;
+  font-size: 1rem;
+  font-weight: 400;
+}
+.contact__detail a {
+  font-weight: 400;
+  color: #000;
+}
